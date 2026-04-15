@@ -11,9 +11,9 @@ Passionate about creating seamless user experiences and robust code architecture
 - 🛠️ **Architecture:** Solid knowledge of **Clean Architecture**, MVVM, and SOLID principles.
 
 ### 🛠️ Tech Stack
-![Kotlin](https://shields.io)
-![Android](https://shields.io)
-![Jetpack Compose](https://shields.io)
+[![Kotlin](https://shields.io)](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+[![Android](https://shields.io)](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
+<img src="https://img.shields.io/badge/-Jetpack Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white"/>
 
 - **UI:** Jetpack Compose, Material Design 3.
 - **Networking/Data:** Retrofit, Room, Data Store, Coroutines, Flow.
