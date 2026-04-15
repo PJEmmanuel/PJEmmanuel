@@ -24,4 +24,4 @@ Passionate about creating seamless user experiences and robust code architecture
 
 ### 📫 Contact
 - 📧 **Email:** [nuevaemmapj@gmail.com](mailto:nuevaemmapj@gmail.com)
-- 💼 **LinkedIn:** [Your link here]
+  
